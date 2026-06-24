@@ -24,9 +24,10 @@ mutual-fund-dashboard/
 │   ├── Advanced_Analytics.ipynb
 │
 ├── dashboard/
-│   ├── bluestock_mf_dashboard.pbix
+│   ├── stramlit_dashboard.py
 │
-│
+│-reports/
+   |-bluestock_dashboard.ppbix
 ├── sql/
 │   ├── schema.sql
 │  
